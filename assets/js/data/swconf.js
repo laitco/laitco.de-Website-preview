@@ -1,9 +1,9 @@
 const swconf = {
   
-    cacheName: 'chirpy-1782573456',
+    cacheName: 'chirpy-1782573860',
 
     resources: [
-      '/assets/css/jekyll-theme-chirpy.css?v=1782573455',
+      '/assets/css/jekyll-theme-chirpy.css?v=1782573859',
       '/',
       
         '/categories/',
@@ -15,6 +15,8 @@ const swconf = {
         '/about/',
       
         '/remotesupport/',
+      
+        '/homelabcoach/',
       
 
       
